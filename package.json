@@ -1,0 +1,7 @@
+{
+    "name": "com.lego.first",
+    "version": "0.0.1",
+    "displayName": "First",
+    "description": "The first component, has no dependencies.",
+    "unity": "2018.4"
+}
